@@ -1,7 +1,10 @@
 package dhtdesign.basic.proxy;
 
 import dhtdesign.basic.util.Reference;
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
 import net.minecraft.util.ResourceLocation;
