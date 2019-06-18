@@ -1,0 +1,6 @@
+{
+    "variants": 
+    {
+        "variant=azoproit": { "model": "zm:ore_overworld_azoproit" }
+    }
+}
